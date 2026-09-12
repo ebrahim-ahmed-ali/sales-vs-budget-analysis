@@ -30,3 +30,7 @@ The dashboard focuses on the following key areas:
 - Regional Performance
 - Category Performance
 - Key Business KPIs
+
+## 📊 Dashboard Preview
+
+![Sales vs Budget Dashboard](dashboard.png)
